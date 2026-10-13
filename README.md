@@ -1,20 +1,19 @@
-# دار القرآن — منصة تلاوات وتفسير ذكي
-**Dar Al-Quran — Quran Recitations & Smart Tafsir Platform** · التصنيف: موقع محتوى
-> ملف تعريفي بالمشروع ونطاقه؛ هذا المستودع يحتوي على التوثيق فقط ولا يتضمن الشفرة المصدرية.
+# Dar Al-Quran — Quran Recitations & Smart Tafsir Platform
+**Dar Al-Quran — Quran Recitations & Smart Tafsir Platform** · Category: Content Website
 > Project overview and scope; this repository contains documentation only, not implementation source code.
 
-## نبذة عن المشروع
-موقع عربي فاخر بتصميم متحرك للقرآن وتلاوات لأشهر القراء، مع عارض تفسير فوري شبيه بالذكاء الاصطناعي ودعم RTL كامل.
+## Project overview
+A premium Arabic website with an animated design for the Quran and recitations by well-known reciters, featuring an AI-like instant tafsir viewer and full RTL support.
 
-## أبرز النقاط
-- عارض تفسير ذكي: اختر سورة وآية واحصل على تفسير شامل فوري
-- قائمة كاملة بـ114 سورة مع بحث فوري، وترجمة إنجليزية قابلة للتفعيل/الإيقاف
-- واجهة عربية RTL كاملة، متجاوبة مع الجوال، تصميم فاخر متحرك
+## Highlights
+- Smart tafsir viewer: choose a surah and verse and receive an instant, comprehensive tafsir
+- Full list of 114 surahs with instant search, and toggleable English translation
+- Full Arabic RTL interface, mobile-responsive, elegant animated design
 
-## الدور
-بناء واجهة عربية تفاعلية لعرض التلاوات والسور والتفسير، مع البحث ودعم RTL والتصميم المتجاوب.
+## Role
+Build an interactive Arabic interface to present recitations, surahs, and tafsir, including search, RTL support, and responsive design.
 
-## التقنيات المستخدمة
+## Technologies used
 HTML/CSS/JS, Cloudflare Pages, SSL/HTTPS, SEO, AdSense
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

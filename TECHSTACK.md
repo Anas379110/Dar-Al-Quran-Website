@@ -1,4 +1,5 @@
-# 🛠️ التقنيات المستخدمة — دار القرآن — منصة تلاوات وتفسير ذكي
+# 🛠️ Technologies — Dar Al-Quran — Quran Recitations & Smart Tafsir Platform
+
 - HTML/CSS/JS
 - Cloudflare Pages
 - SSL/HTTPS
